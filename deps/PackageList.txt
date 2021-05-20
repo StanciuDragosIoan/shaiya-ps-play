@@ -1,0 +1,15 @@
+Boost (external)
+	http://www.boost.org
+	Version: 1.55
+
+OpenSSL (general-purpose cryptography library)
+	https://www.openssl.org/
+	Version: external
+
+MySQL
+	https://www.mysql.com/
+	Version: external
+
+Ruby
+	http://ruby-lang.org/
+	Version: external
